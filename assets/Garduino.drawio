@@ -1,0 +1,155 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.6">
+  <diagram name="Page-1" id="vITuFHFiMZSFlZ0U1hYk">
+    <mxGraphModel dx="1024" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-1/24/drop-128.png" vertex="1" parent="1">
+          <mxGeometry x="76.53" y="266" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/green-world/80/Green_World-14-128.png" vertex="1" parent="1">
+          <mxGeometry x="46.53" y="230" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-6" value="ESP-12e" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="393" y="362.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;" vertex="1" parent="1">
+          <mxGeometry x="358" y="310" width="135" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-8" value="Nano" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="148" y="362.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-9" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;" vertex="1" parent="1">
+          <mxGeometry x="124" y="326" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-12" value="SoftwareSerial" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="238" y="348" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-13" value="HDC1080" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="381.5" y="134" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-14" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="100" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-15" value="I2C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="230" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-19" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1" source="fbALLvv1FaMhgm0Jl5sU-9" target="fbALLvv1FaMhgm0Jl5sU-7">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="210" y="410" as="sourcePoint" />
+            <mxPoint x="310" y="410" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-20" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1" source="fbALLvv1FaMhgm0Jl5sU-14" target="fbALLvv1FaMhgm0Jl5sU-7">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="340" y="250" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-1/24/drop-128.png" vertex="1" parent="1">
+          <mxGeometry x="76.53" y="340" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/green-world/80/Green_World-14-128.png" vertex="1" parent="1">
+          <mxGeometry x="46.53" y="304" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-1/24/drop-128.png" vertex="1" parent="1">
+          <mxGeometry x="76.53" y="412.5" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/green-world/80/Green_World-14-128.png" vertex="1" parent="1">
+          <mxGeometry x="46.53" y="376.5" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/evericons-24px-vol-1/24/drop-128.png" vertex="1" parent="1">
+          <mxGeometry x="76.53" y="486.5" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/green-world/80/Green_World-14-128.png" vertex="1" parent="1">
+          <mxGeometry x="46.53" y="450.5" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-29" value="Plant moisture sensors" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4" y="198" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-30" value="&lt;div&gt;Server&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;" vertex="1" parent="1">
+          <mxGeometry x="615.96" y="317" width="53.08" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-31" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection" vertex="1" parent="1">
+          <mxGeometry x="520" y="331.25" width="73.5" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-32" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fbALLvv1FaMhgm0Jl5sU-4" target="fbALLvv1FaMhgm0Jl5sU-9">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="66.53" y="274" as="sourcePoint" />
+            <mxPoint x="120" y="320" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-33" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1" source="fbALLvv1FaMhgm0Jl5sU-24" target="fbALLvv1FaMhgm0Jl5sU-9">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="176.53" y="274" as="sourcePoint" />
+            <mxPoint x="120.53" y="359.808510638298" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-34" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fbALLvv1FaMhgm0Jl5sU-26" target="fbALLvv1FaMhgm0Jl5sU-9">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="76.53" y="464" as="sourcePoint" />
+            <mxPoint x="120.53" y="401.4384615384615" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-35" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1" source="fbALLvv1FaMhgm0Jl5sU-28" target="fbALLvv1FaMhgm0Jl5sU-9">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="136.53" y="524" as="sourcePoint" />
+            <mxPoint x="120.53" y="436.1755319148938" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-36" value="&lt;div&gt;Temperature and humidity sensor&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="40" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-37" value="Rasp Pi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="669.04" y="270" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-38" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="333" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-39" value="InfluxDB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="745" y="362.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-40" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fbALLvv1FaMhgm0Jl5sU-30" target="fbALLvv1FaMhgm0Jl5sU-38">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="660" y="430" as="sourcePoint" />
+            <mxPoint x="760" y="430" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-41" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.dashboard" vertex="1" parent="1">
+          <mxGeometry x="565.96" y="520" width="124.04" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-43" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1.034;entryY=0.595;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fbALLvv1FaMhgm0Jl5sU-38" target="fbALLvv1FaMhgm0Jl5sU-41">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="740" y="550" as="sourcePoint" />
+            <mxPoint x="800" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-45" value="Graphana Dashboard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="557.98" y="608" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_humidity_sensor;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="430.5" y="62" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_temperature_sensor;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="62" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-46" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="300" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fbALLvv1FaMhgm0Jl5sU-48" value="Analog" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="104.53" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

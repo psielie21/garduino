@@ -1,0 +1,14 @@
+[Unit]
+Description=Garduino web server
+After=network.target
+
+[Service]
+User=pi
+Group=pi
+ExecStart=/opt/garduino/garduino_launcher.sh
+Type=simple
+Restart=always
+
+
+[Install]
+WantedBy=default.target
